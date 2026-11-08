@@ -1,9 +1,9 @@
 {
-  "name": "testing",
+  "name": "calculator-service",
   "version": "1.0.0",
-  "description": "Sample application to verify MyCo AI PR reviews",
-  "main": "src/orders.js",
+  "description": "Basic arithmetic calculation engine",
+  "main": "src/calculator.js",
   "scripts": {
-    "test": "node -e 'console.log(\"Tests passed\")'"
+    "test": "node test/calculator.test.js"
   }
 }
