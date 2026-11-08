@@ -1,0 +1,8 @@
+{
+  "customerId": "cust_fad06a6eebec1cfd",
+  "repository": "jaganbhakti900/testing",
+  "minSeverity": "P2",
+  "gateMinSeverity": "P1",
+  "ciGate": false,
+  "validateFindings": true
+}
